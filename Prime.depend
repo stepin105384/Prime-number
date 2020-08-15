@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1597300073 source:c:\users\user\desktop\factorial\main.c
+	"test_prime.h"
+
+1597341028 c:\users\user\desktop\factorial\test\test_prime.h
+
+1597340476 source:c:\users\user\desktop\factorial\src\prime.c
+	"prime.h"
+
+1597340986 c:\users\user\desktop\factorial\inc\prime.h
+
+1597340389 source:c:\users\user\desktop\factorial\test\test_prime.c
+	"unity.h"
+	"prime.h"
+
+1597139704 c:\users\user\desktop\factorial\unity\unity.h
+	"unity_internals.h"
+
+1597139705 c:\users\user\desktop\factorial\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597139704 source:c:\users\user\desktop\factorial\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597300073 source:c:\users\user\desktop\prime final\main.c
+	"test_prime.h"
+
+1597341028 c:\users\user\desktop\prime final\test\test_prime.h
+
+1597340476 source:c:\users\user\desktop\prime final\src\prime.c
+	"prime.h"
+
+1597340986 c:\users\user\desktop\prime final\inc\prime.h
+
+1597340389 source:c:\users\user\desktop\prime final\test\test_prime.c
+	"unity.h"
+	"prime.h"
+
+1597139704 c:\users\user\desktop\prime final\unity\unity.h
+	"unity_internals.h"
+
+1597139705 c:\users\user\desktop\prime final\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597139704 source:c:\users\user\desktop\prime final\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
