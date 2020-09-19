@@ -4,3 +4,4 @@
 
 ![cppcheck-action](https://github.com/stepin105384/Prime-number/workflows/cppcheck-action/badge.svg)
 ![C/C++ CI](https://github.com/stepin105384/Prime-number/workflows/C/C++%20CI/badge.svg)
+![CI](https://github.com/stepin105384/Prime-number/workflows/CI/badge.svg)
